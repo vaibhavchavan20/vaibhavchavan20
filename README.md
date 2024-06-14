@@ -1,5 +1,9 @@
 ## Hey 👋, I'm Vaibhav
 
+
+
+
+⚡ Fun fact: I think I am Funny 😄😄
 <!--
 **vaibhavchavan20/vaibhavchavan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
