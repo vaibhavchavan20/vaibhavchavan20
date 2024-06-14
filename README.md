@@ -4,12 +4,14 @@
 - 🔭 I’m a Data Analyst.
   
 - 👩‍💻 I'm currently working at Tata Consultancy Services (TCS)
+
+- 💬 Ask me about Power BI, Excel, SQL, Data Analytics and Visualization
   
 - 🌱 I’m currently learning Python
   
-- 💬 Ask me about Power BI, Excel, SQL, Data Analytics and Visualization
-  
 - 📜 Check out [my Resume](https://tr.ee/6YBuyn4w1w)
+
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vaibhav-chavan)
   
 - ⚡ Fun fact: I think I am Funny 😁🤣😎
   
