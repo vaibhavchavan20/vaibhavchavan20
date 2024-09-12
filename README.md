@@ -9,7 +9,6 @@
   
 - 🌱 I’m currently learning Python
   
-- 📜 Check out [my Resume](https://tr.ee/6YBuyn4w1w)
 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vaibhav-chavan)
   
