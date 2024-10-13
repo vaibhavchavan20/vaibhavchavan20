@@ -1,18 +1,19 @@
 ## Hey 👋, I'm Vaibhav
 ### Data Enthusiast
 
-- 🔭 I’m a Data Analyst.
+- 🔭 I’m a **Data Analyst**.
   
 - 👩‍💻 I'm currently working at Tata Consultancy Services (TCS)
 
 - 💬 Ask me about Power BI, Excel, SQL, Data Analytics and Visualization
+- 🎥 Subscribe to my **Youtube Channel [iThinkData](https://www.youtube.com/@iThinkData?sub_confirmation=1)**
   
 - 🌱 I’m currently learning Python
   
 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vaibhav-chavan)
+- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/vaibhav-chavan)**
   
-- ⚡ Fun fact: I think I am Funny 😁🤣😎
+- ⚡ Fun fact: I think I am **Funny** 😁🤣😎
   
 
 <!--
